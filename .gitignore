@@ -1,0 +1,5 @@
+../node_modules/
+.env
+*.log
+NodeJsProject/coverage/
+logs/*.log
